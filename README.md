@@ -19,3 +19,8 @@ For each analysis, hypotheses are formulated and tested using appropriate statis
 
 #### Disclaimer:
 The dataset is provided for educational and analytical purposes only. Any conclusions drawn from the analysis are based on statistical interpretations and may not represent real-world scenarios accurately.
+
+
+## Contact
+If you have any questions or suggestions, please feel free to reach out to me at [nvarjunmani07@gmail.com](mailto:nvarjunmani07@gmail.com).
+
